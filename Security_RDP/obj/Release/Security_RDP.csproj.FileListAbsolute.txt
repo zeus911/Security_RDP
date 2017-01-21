@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\bin\Release\Security_RDP.exe.config
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_RDP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_RDP.frmMain.resources
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_RDP.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_RDP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\bin\Release\Security_RDP.exe
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\bin\Release\Security_RDP.pdb
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_RDP.exe
+C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_RDP.pdb
+C:\Users\Administrator\Desktop\Security_RDP\Security_RDP\bin\Release\Security_RDP.exe.config
+C:\Users\Administrator\Desktop\Security_RDP\Security_RDP\obj\Release\Security_RDP.exe
+C:\Users\Administrator\Desktop\Security_RDP\Security_RDP\obj\Release\Security_RDP.pdb
