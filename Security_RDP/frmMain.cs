@@ -40,8 +40,7 @@ namespace Security_RDP
                 {
                     if (!textBox1.Text.Equals(match.Value))
                     {
-                        /** SendMail 하는 곳 **/
-                        // IP : match.Value
+                        /** Events that occur when IPv4 does not match. **/
                     }
                 }
                

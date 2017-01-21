@@ -10,3 +10,6 @@ C:\Users\Administrator\Desktop\MSecurity_RDP\MSecurity_RDP\obj\Release\Security_
 C:\Users\Administrator\Desktop\Security_RDP\Security_RDP\bin\Release\Security_RDP.exe.config
 C:\Users\Administrator\Desktop\Security_RDP\Security_RDP\obj\Release\Security_RDP.exe
 C:\Users\Administrator\Desktop\Security_RDP\Security_RDP\obj\Release\Security_RDP.pdb
+G:\Develop\Security_RDP\Security_RDP\bin\Release\Security_RDP.exe.config
+G:\Develop\Security_RDP\Security_RDP\obj\Release\Security_RDP.exe
+G:\Develop\Security_RDP\Security_RDP\obj\Release\Security_RDP.pdb
