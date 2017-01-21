@@ -100,7 +100,7 @@ namespace Security_RDP
         {
 
             notifyIcon1.BalloonTipTitle = "Security :: RDP";
-            notifyIcon1.BalloonTipText = "트레이 상태에서 상시 감시합니다.";
+            notifyIcon1.BalloonTipText = "Always monitor in tray mode.";
 
             notifyIcon1.ShowBalloonTip(3);
             if (FormWindowState.Minimized == this.WindowState)
